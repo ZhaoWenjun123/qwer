@@ -25,7 +25,7 @@ SECRET_KEY = '6ym#99)&@_x$bdb(flta1vpd1pyabcv-q78uu2kuz0%0(i^v(9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
